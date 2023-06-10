@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blitzdata-search-filter/static/css/main.4c543a45.chunk.css",
+    "main.js": "/blitzdata-search-filter/static/js/main.5b23fd33.chunk.js",
+    "main.js.map": "/blitzdata-search-filter/static/js/main.5b23fd33.chunk.js.map",
+    "runtime-main.js": "/blitzdata-search-filter/static/js/runtime-main.fd98916e.js",
+    "runtime-main.js.map": "/blitzdata-search-filter/static/js/runtime-main.fd98916e.js.map",
+    "static/js/2.c99ebdaf.chunk.js": "/blitzdata-search-filter/static/js/2.c99ebdaf.chunk.js",
+    "static/js/2.c99ebdaf.chunk.js.map": "/blitzdata-search-filter/static/js/2.c99ebdaf.chunk.js.map",
+    "index.html": "/blitzdata-search-filter/index.html",
+    "static/css/main.4c543a45.chunk.css.map": "/blitzdata-search-filter/static/css/main.4c543a45.chunk.css.map",
+    "static/js/2.c99ebdaf.chunk.js.LICENSE.txt": "/blitzdata-search-filter/static/js/2.c99ebdaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd98916e.js",
+    "static/js/2.c99ebdaf.chunk.js",
+    "static/css/main.4c543a45.chunk.css",
+    "static/js/main.5b23fd33.chunk.js"
+  ]
+}
